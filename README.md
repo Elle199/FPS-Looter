@@ -1,7 +1,7 @@
 # FPS-Looter
 This is a Destiny like shooter that is primarily aimed to improve my programming skills.
 
-The end product will hopefully the following content:
+The end product will hopefully have the following content:
 * Multiple Weapons
 * Weapon Swapping
 * Health bar UI
